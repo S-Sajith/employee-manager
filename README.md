@@ -1,19 +1,20 @@
 ## Simple CRUD REST web app
 
 - **Technologies used**
-    Front end : Angular 15, Bootstrap 4.4.2
-    Back end : Spring Boot ( Spring Web , Spring Data JPA and MySQL Driver dependencies used) 
-    Database : MySQL
+    - Front end : Angular 15, Bootstrap 4.4.2
+    - Back end : Spring Boot ( Spring Web , Spring Data JPA and MySQL Driver dependencies used) 
+    - Database : MySQL
 
 - **Features**
     - Listing all employees
-        -![[QUB3k8BWsk.png]]
+        - https://i.imgur.com/EodOgjc.png
      - Adding Employee
-         - ![[firefox_EWBLRqUqPZ.png]]
-         - ![[firefox_6x3hz0Kh1N 2.png]]
+         - https://i.imgur.com/4dH2Cyt.png
+         - https://i.imgur.com/IzhrO4y.png
     - Updating Employee
-        - ![[firefox_Tsr1pR7Cvl.png]]
+        - https://i.imgur.com/7lvhqwh.png
     - Deleting Employee
-        - ![[firefox_lIHrJroqWa.png]]
-        - ![[QUB3k8BWsk 1.png]]
+        - https://i.imgur.com/Y4DnI5C.png
+        - https://i.imgur.com/3TBl7yr.png
+
 
